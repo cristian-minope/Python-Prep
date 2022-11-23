@@ -1,0 +1,9 @@
+para usar el git se usa comandos como:
+
+- git status (nos mostrara la carpeta modificada en rojo)
+ ejemplor carpeta (Practica.py)
+- git add Practica.py (lo agrega al git ahora sale verde)
+- git commit- m "comment" (el nombre que le pondremos a ese cambio)
+- git push (lo sube al repositorio)
+
+nota: todos estos comandos se escriben en el bash 
